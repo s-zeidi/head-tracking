@@ -1,0 +1,11 @@
+Model Information:
+* title:	BMW M4csl
+* source:	https://sketchfab.com/3d-models/bmw-m4csl-b53782a00cc240a191d5d7d005af1423
+* author:	Mpgs Studios (https://sketchfab.com/mpgs.studio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BMW M4csl" (https://sketchfab.com/3d-models/bmw-m4csl-b53782a00cc240a191d5d7d005af1423) by Mpgs Studios (https://sketchfab.com/mpgs.studio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
